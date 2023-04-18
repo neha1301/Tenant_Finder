@@ -1,0 +1,12 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-style {
+    width: 1080px;
+    height: 780px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
